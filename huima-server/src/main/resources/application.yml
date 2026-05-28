@@ -1,0 +1,11 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: chatbi-backend
+
+chatbi:
+  llm:
+    mock-enabled: true
+
